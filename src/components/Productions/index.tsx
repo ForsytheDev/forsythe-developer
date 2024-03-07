@@ -9,7 +9,7 @@ const projects = [
     name: 'Forsythe',
     imageUrl: '/assets/forsythe.jpg',
     description:
-      'Welcome to the world of React Sneakers – the frontend part of an online store for selling sports sneakers. This small application is built using the React library and incorporates the latest technologies suitable for Beginner/Junior devs.',
+      'Hey there! 👋 This is my main project – a portfolio website showcasing my skills as a React developer. Explore and get to know my work!',
     technologies: ['Next.js', 'TypeScript', 'GSAP', 'SCSS', 'Tailwind CSS', 'Swiper'],
     github: 'https://github.com/ForsytheDev/forsythe-developer',
     domain: '/',
